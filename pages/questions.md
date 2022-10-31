@@ -1,4 +1,10 @@
-#Questions regarding presentation/analytics tool
+---
+layout: page
+title: questions
+description: questions to understand
+---
+
+# Questions regarding presentation/analytics tool
 
 1. What tool have you used for presentation - slides, powerpoint, keynote or anything else?
 2. Do you have to work more on creating presentations without an updating data source (static presentations) or you work more on presentations that are dynamic in terms of data?
