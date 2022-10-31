@@ -5,5 +5,7 @@ tagline: A very simple website with some good material and some total bullshit
 description: Trying to create a good source of knowledge or total bullshit
 ---
 [My first page](pages/independent_site.html)
+[questions](pages/questions.html)
 
-Read some of what I wrote when I was young, not sure if this deserves any praise but thought I'll share since it might help someone 
+
+this is still a test page
