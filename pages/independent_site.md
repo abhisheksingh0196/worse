@@ -1,7 +1,6 @@
 ---
 layout: first page
-title: My first sub page
-description: My favourite songs
+title: Why I'm writing here
+description: Hello again!
 ---
 
-Look here
